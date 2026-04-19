@@ -1,3 +1,3 @@
-# THE MetaScaper tm
+# THE MetaScaper™
 Developed by Ulices Contreras
 Hello!
